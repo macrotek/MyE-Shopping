@@ -30,6 +30,25 @@
                         <ul class="nav navbar-nav navbar-right">
                             <li class="active"><a href="#">Home</a></li>
                             <li><a href="#">About</a></li>
+                            <li><a href="#">Contact US</a></li>
+                            <li><a href="#">Blogs</a></li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li class="dropdown-header"><b>Mens</b></li>
+                                    <li role="separator" class="divider"></li>
+                                    <li><a href="#">Shirts</a></li>
+                                    <li><a href="#">Pantss</a></li>
+                                    <li><a href="#">Denim</a></li>
+                                    <li role="separator" class="divider"></li>
+                                    <li class="dropdown-header"><b>Womens</b></li>
+                                    <li role="separator" class="divider"></li>
+                                    <li><a href="#">Top</a></li>
+                                    <li><a href="#">Leggings</a></li>
+                                    <li><a href="#">Denim</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Registration</a></li>
                         </ul>
                     </div>
                 </div>
