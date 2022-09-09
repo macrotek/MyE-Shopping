@@ -75,6 +75,13 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="Default.aspx" />
     <Content Include="icons\safeIcons.png" />
+    <Content Include="ImgSlider\1.jpg" />
+    <Content Include="ImgSlider\11.jpg" />
+    <Content Include="ImgSlider\12.jpg" />
+    <Content Include="ImgSlider\14.jpg" />
+    <Content Include="ImgSlider\15.jpg" />
+    <Content Include="ImgSlider\2.png" />
+    <Content Include="ImgSlider\3.png" />
     <Content Include="js\bootstrap.bundle.js" />
     <Content Include="js\bootstrap.bundle.min.js" />
     <Content Include="js\bootstrap.js" />
@@ -103,6 +110,8 @@
     <Content Include="js\bootstrap.js.map" />
     <Content Include="js\bootstrap.min.js.map" />
     <Content Include="icons\Thumbs.db" />
+    <Content Include="ImgSlider\Thumbs.db" />
+    <Content Include="ImgSlider\13.webp" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
