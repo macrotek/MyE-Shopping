@@ -69,23 +69,28 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="ImgSlider/11.jpg" alt="Los Angeles" style="width:100%; height:450px;" /> 
+        <img src="ImgSlider/11.jpg" alt="Los Angeles" style="width:100%; height:400px;" /> 
+          <!--Button >
+          <div class="carousel-caption">
+             <p><a class="btn btn-lg btn-primary" style="align-items:flex-start;">Buy Now</a></p>
+          </div>
+          < Button End -->
       </div>
 
       <div class="item">
-        <img src="ImgSlider/12.jpg" alt="Chicago" style="width:100%; height:450px;" />
+        <img src="ImgSlider/12.jpg" alt="Chicago" style="width:100%; height:400px;" />
       </div>
     
       <div class="item">
-        <img src="ImgSlider/15.jpg"  alt="New york" style="width:100%; height:450px;" />
+        <img src="ImgSlider/15.jpg"  alt="New york" style="width:100%; height:400px;" />
           <div class="carousel-caption">
             <h3>Always in style!</h3>
-            <p style="color:orangered;font-size:x-large;"><b>Favorite brands and hottest trends.</b></p>
+            <p style="color:black;font-size:x-large;font-style:oblique;"><b>Favorite brands and hottest trends.</b></p>
          </div>
       </div>
 
       <div class="item">
-        <img src="ImgSlider/14.jpg" alt="New york" style="width:100%; height:450px;" />
+        <img src="ImgSlider/14.jpg" alt="New york" style="width:100%; height:400px;" />
       </div>
     </div>
 
