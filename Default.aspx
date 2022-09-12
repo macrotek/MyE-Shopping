@@ -78,6 +78,10 @@
     
       <div class="item">
         <img src="ImgSlider/15.jpg"  alt="New york" style="width:100%; height:450px;" />
+          <div class="carousel-caption">
+            <h3>Always in style!</h3>
+            <p style="color:orangered;font-size:x-large;"><b>Favorite brands and hottest trends.</b></p>
+         </div>
       </div>
 
       <div class="item">
