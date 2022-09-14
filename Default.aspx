@@ -85,8 +85,7 @@
         <img src="ImgSlider/15.jpg"  alt="New york" style="width:100%; height:400px;" />
           <div class="carousel-caption">
             <h3>Always in style!</h3>
-            <p style="color:black;font-size:x-large;font-style:oblique;"><b>Favorite brands and hottest trends.</b></p>
-         </div>
+          </div>
       </div>
 
       <div class="item">
@@ -107,6 +106,16 @@
 </div>
 
 <!-- Image Slider End -->
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <img class="img-circle" src="" alt="Thumbnail" width="140" height="140">
+                    <h2>Mobiles</h2>
+                    <p>abc def ghi jkl..</p>
+                    <p><a class="btn btn-default" href="#" role="button">View More &raquo;</a></p>
+                </div>
+            </div>
         </div>
     </form>
 </body>
