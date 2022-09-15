@@ -112,11 +112,44 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3">
-                    <img class="s-image" src="ImageItems/W1.jpg" alt="Thumbnail" width="180" height="240">
-                    <h2>Pistaa's Women Straight Cotton Floral Readymade Salwar Suit Set (Indigo)</h2>
+                    <img class="s-image" src="ImageItems/W11.jpg" alt="Thumbnail" width="200" height="280">
+                    <h4>Pistaa's Women Straight Cotton Floral Readymade Salwar Suit Set (Indigo)</h4>
                     <p>Care Instructions: Machine Wash
                         THIS PRODUCT SIZE'S :- KURTI :: X-small= 36 (Inch),Small= 38(Inch),Medium=40(Inch), Large=42(Inch), XL=44(Inch), XXL=46(Inch),XXXL=48(Inch), XXXXL=50(Inch) , Palazzo Size : (Fit 28 inch To 50 Inch Waist)
                         Closure Type: Drawstring; Item Length Description: Knee Length; Design Name: Printed; Age Range Description: Adult; Neck Style: Mandarin Neck; Sleeve Type: 3/4 Sleeve</p>
+                    <p><a class="btn btn-default" href="#" role="button">View More &raquo;</a></p>
+                </div>
+                <div class="col-lg-3">
+                    <img class="s-image" src="ImageItems/W2.jpg" alt="Thumbnail" width="200" height="280">
+                    <h4>Rajnandini Women's Grey Chanderi Silk Embroidered Semi-Stitched Salwar Suit Material With Printed Dupatta (Free Size)</h4>
+                    <p>Fit Type: Regular
+                        Fabric Detail :: Top - Chanderi Silk, Bottom - Cotton , Dupatta - Nazmin , Inner - Not Available
+                        Color :: Top - Grey , Bottom - Grey , Dupatta - Grey
+                        Top Size : 2.2 Mtr , Top Length : 42 Inches , Bottom Size : 2.25 Mtr , Dupatta Size : 2.2 Mtr , Work : Embroidered ,Work Type : Dori Embroidery , Product Type : Semi-Stitched.
+                        Brand Trust of Rajnandini
+                    </p>
+                    <p><a class="btn btn-default" href="#" role="button">View More &raquo;</a></p>
+                </div>
+                <div class="col-lg-3">
+                    <img class="s-image" src="ImageItems/W4.jpg" alt="Thumbnail" width="200" height="280">
+                    <h4>Rajnandini Women's Red Cotton Printed Unstitched Salwar Suit Material(JOPLVSM4031)</h4>
+                    <p>Fit Type: Regular
+                        Fabric :: Top - Cotton, Bottom - Cotton , Dupatta - Cotton , Inner - Not Available
+                        Color :: Top - Red , Bottom - Black , Dupatta - Multicolor
+                        Top Size : 2.00 Meter , Top Length : 39 Inches , Bottom Size : 2.50 Meter , Dupatta Size : 2.25 Meter , Work : Printed,Work Type : Geometric , Product Type : Unstitched.
+                        Package Contains : 1 Top || 1 Bottom || 1 Dupatta
+                        Occasion- Daily , Evening , Office , Work
+                    </p>
+                    <p><a class="btn btn-default" href="#" role="button">View More &raquo;</a></p>
+                </div>
+                <div class="col-lg-3">
+                    <img class="s-image" src="ImageItems/W5.jpg" alt="Thumbnail" width="200" height="280">
+                    <h4>Miraan Cotton Printed Readymade Salwar Suit For Women(MIRAANSG118, Yellow)</h4>
+                    <p>
+                        Readymade Stitched Fabric Set: Stitched Cotton Top, Stitched Cotton Bottom and Stitched Cotton Dupatta
+                        Suitable For Daily wear Or Casual wear; Readymade Stitched material: Customers can choose from XS, S, M, L, XL, XXL, XXXL , XXXXL
+                        Age Range Description: Adult; Neck Style: Round Neck; Closure Type: Hook; Bottom Style: Patiala; Item Length Description: Knee Length; Sleeve Type: 3/4 Sleeve
+                    </p>
                     <p><a class="btn btn-default" href="#" role="button">View More &raquo;</a></p>
                 </div>
             </div>
