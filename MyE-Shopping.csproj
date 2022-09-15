@@ -75,6 +75,10 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="Default.aspx" />
     <Content Include="icons\safeIcons.png" />
+    <Content Include="ImageItems\W1.jpg" />
+    <Content Include="ImageItems\W2.jpg" />
+    <Content Include="ImageItems\W3.jpg" />
+    <Content Include="ImageItems\W4.jpg" />
     <Content Include="ImgSlider\1.jpg" />
     <Content Include="ImgSlider\11.jpg" />
     <Content Include="ImgSlider\12.jpg" />

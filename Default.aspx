@@ -106,13 +106,17 @@
 </div>
 
 <!-- Image Slider End -->
+            
         </div>
+        &nbsp;
         <div class="container">
             <div class="row">
-                <div class="col-lg-4">
-                    <img class="img-circle" src="" alt="Thumbnail" width="140" height="140">
-                    <h2>Mobiles</h2>
-                    <p>abc def ghi jkl..</p>
+                <div class="col-lg-3">
+                    <img class="s-image" src="ImageItems/W1.jpg" alt="Thumbnail" width="180" height="240">
+                    <h2>Pistaa's Women Straight Cotton Floral Readymade Salwar Suit Set (Indigo)</h2>
+                    <p>Care Instructions: Machine Wash
+                        THIS PRODUCT SIZE'S :- KURTI :: X-small= 36 (Inch),Small= 38(Inch),Medium=40(Inch), Large=42(Inch), XL=44(Inch), XXL=46(Inch),XXXL=48(Inch), XXXXL=50(Inch) , Palazzo Size : (Fit 28 inch To 50 Inch Waist)
+                        Closure Type: Drawstring; Item Length Description: Knee Length; Design Name: Printed; Age Range Description: Adult; Neck Style: Mandarin Neck; Sleeve Type: 3/4 Sleeve</p>
                     <p><a class="btn btn-default" href="#" role="button">View More &raquo;</a></p>
                 </div>
             </div>
