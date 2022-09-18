@@ -8,6 +8,7 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta http-equiv="X-UA-Compatible" content="Firefox"/>
+    <link href="css/Custome.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
@@ -39,17 +40,23 @@
                                     <li class="dropdown-header"><b>Mens</b></li>
                                     <li role="separator" class="divider"></li>
                                     <li><a href="#">Shirts</a></li>
-                                    <li><a href="#">Pantss</a></li>
+                                    <li><a href="#">Pants</a></li>
                                     <li><a href="#">Denim</a></li>
                                     <li role="separator" class="divider"></li>
                                     <li class="dropdown-header"><b>Womens</b></li>
                                     <li role="separator" class="divider"></li>
                                     <li><a href="#">Top</a></li>
                                     <li><a href="#">Leggings</a></li>
+                                    <li><a href="#">Salwar Suit</a></li>
+                                    <li role="separator" class="divider"></li>
+                                    <li class="dropdown-header"><b>Children</b></li>
+                                    <li role="separator" class="divider"></li>
+                                    <li><a href="#">Top</a></li>
+                                    <li><a href="#">Leggings</a></li>
                                     <li><a href="#">Denim</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Registration</a></li>
+                            <li><a href="SignUp.aspx">Registration</a></li>
                         </ul>
                     </div>
                 </div>
@@ -108,52 +115,60 @@
 <!-- Image Slider End -->
             
         </div>
-        &nbsp;
-        <div class="container">
+        <hr></hr>
+        <div class="container center">
             <div class="row">
-                <div class="col-lg-3">
+                <div class="col-lg-4">
                     <img class="s-image" src="ImageItems/W11.jpg" alt="Thumbnail" width="200" height="280">
                     <h4>Pistaa's Women Straight Cotton Floral Readymade Salwar Suit Set (Indigo)</h4>
-                    <p>Care Instructions: Machine Wash
+                    <!--p>Care Instructions: Machine Wash
                         THIS PRODUCT SIZE'S :- KURTI :: X-small= 36 (Inch),Small= 38(Inch),Medium=40(Inch), Large=42(Inch), XL=44(Inch), XXL=46(Inch),XXXL=48(Inch), XXXXL=50(Inch) , Palazzo Size : (Fit 28 inch To 50 Inch Waist)
-                        Closure Type: Drawstring; Item Length Description: Knee Length; Design Name: Printed; Age Range Description: Adult; Neck Style: Mandarin Neck; Sleeve Type: 3/4 Sleeve</p>
+                        Closure Type: Drawstring; Item Length Description: Knee Length; Design Name: Printed; Age Range Description: Adult; Neck Style: Mandarin Neck; Sleeve Type: 3/4 Sleeve</p -->
                     <p><a class="btn btn-default" href="#" role="button">View More &raquo;</a></p>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-4">
                     <img class="s-image" src="ImageItems/W2.jpg" alt="Thumbnail" width="200" height="280">
-                    <h4>Rajnandini Women's Grey Chanderi Silk Embroidered Semi-Stitched Salwar Suit Material With Printed Dupatta (Free Size)</h4>
-                    <p>Fit Type: Regular
+                    <h4>Rajnandini Women's Grey Chanderi Silk Embroidered Semi-Stitched Salwar Suit</h4>
+                    <!--p>Fit Type: Regular
                         Fabric Detail :: Top - Chanderi Silk, Bottom - Cotton , Dupatta - Nazmin , Inner - Not Available
                         Color :: Top - Grey , Bottom - Grey , Dupatta - Grey
                         Top Size : 2.2 Mtr , Top Length : 42 Inches , Bottom Size : 2.25 Mtr , Dupatta Size : 2.2 Mtr , Work : Embroidered ,Work Type : Dori Embroidery , Product Type : Semi-Stitched.
                         Brand Trust of Rajnandini
-                    </p>
+                    </p -->
                     <p><a class="btn btn-default" href="#" role="button">View More &raquo;</a></p>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-4">
                     <img class="s-image" src="ImageItems/W4.jpg" alt="Thumbnail" width="200" height="280">
                     <h4>Rajnandini Women's Red Cotton Printed Unstitched Salwar Suit Material(JOPLVSM4031)</h4>
-                    <p>Fit Type: Regular
+                    <!--p>Fit Type: Regular
                         Fabric :: Top - Cotton, Bottom - Cotton , Dupatta - Cotton , Inner - Not Available
                         Color :: Top - Red , Bottom - Black , Dupatta - Multicolor
                         Top Size : 2.00 Meter , Top Length : 39 Inches , Bottom Size : 2.50 Meter , Dupatta Size : 2.25 Meter , Work : Printed,Work Type : Geometric , Product Type : Unstitched.
                         Package Contains : 1 Top || 1 Bottom || 1 Dupatta
                         Occasion- Daily , Evening , Office , Work
-                    </p>
+                    </p -->
                     <p><a class="btn btn-default" href="#" role="button">View More &raquo;</a></p>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-4">
                     <img class="s-image" src="ImageItems/W5.jpg" alt="Thumbnail" width="200" height="280">
                     <h4>Miraan Cotton Printed Readymade Salwar Suit For Women(MIRAANSG118, Yellow)</h4>
-                    <p>
+                    <!--p>
                         Readymade Stitched Fabric Set: Stitched Cotton Top, Stitched Cotton Bottom and Stitched Cotton Dupatta
                         Suitable For Daily wear Or Casual wear; Readymade Stitched material: Customers can choose from XS, S, M, L, XL, XXL, XXXL , XXXXL
                         Age Range Description: Adult; Neck Style: Round Neck; Closure Type: Hook; Bottom Style: Patiala; Item Length Description: Knee Length; Sleeve Type: 3/4 Sleeve
-                    </p>
+                    </p-->
                     <p><a class="btn btn-default" href="#" role="button">View More &raquo;</a></p>
                 </div>
             </div>
         </div>
+        <!-- Footer Section Start -->
+        <footer>
+            <div class="container">
+                <p class="pull-right"><a href="#"><b>Back to Top</b></a></p>
+                <p>&copy; 3-Tech_Ganesha &middot <a href="Default.aspx">LinkedIn</a>&middot; <a href="#">Twitter</a>&middot; <a href="#">GitHub</a>&middot; <a href="#">Instagram</a>&middot;</p>
+            </div>
+        </footer>
+        <!-- Footer Section End -->
     </form>
 </body>
 </html>

@@ -49,8 +49,8 @@ G:\NETPrograms\MyE-Shopping\MyE-Shopping\bin\roslyn\VBCSCompiler.exe
 G:\NETPrograms\MyE-Shopping\MyE-Shopping\bin\roslyn\VBCSCompiler.exe.config
 G:\NETPrograms\MyE-Shopping\MyE-Shopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 G:\NETPrograms\MyE-Shopping\MyE-Shopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-G:\NETPrograms\MyE-Shopping\MyE-Shopping\obj\Debug\MyE-Shopping.csprojAssemblyReference.cache
 G:\NETPrograms\MyE-Shopping\MyE-Shopping\obj\Debug\MyE-Shopping.csproj.CoreCompileInputs.cache
 G:\NETPrograms\MyE-Shopping\MyE-Shopping\obj\Debug\MyE-Shopping.csproj.CopyComplete
 G:\NETPrograms\MyE-Shopping\MyE-Shopping\obj\Debug\MyE-Shopping.dll
 G:\NETPrograms\MyE-Shopping\MyE-Shopping\obj\Debug\MyE-Shopping.pdb
+G:\NETPrograms\MyE-Shopping\MyE-Shopping\obj\Debug\MyE-Shopping.csprojAssemblyReference.cache
