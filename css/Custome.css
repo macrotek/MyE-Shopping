@@ -6,10 +6,21 @@
     width:300px;
     height:300px;
     position:absolute;
-    top:0px;
+    top:-40px;
     bottom:0px;
     right:0px;
     left:0px;
     margin:auto;
+}
+
+.footer-pos {
+width:auto;
+height:auto;
+position:absolute;
+top:600px;
+bottom:0;
+left:0;
+right:0;
+margin:auto;
 }
 

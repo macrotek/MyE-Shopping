@@ -8,15 +8,14 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta http-equiv="X-UA-Compatible" content="Firefox"/>
-    <link href="css/Custome.css" rel="stylesheet" />
+    <!--link href="css/Custome.css" rel="stylesheet" /-->
     <link href="css/Pro2.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
-<body>
-    <form id="form1" runat="server">
-        <div>
+<body style="background-image: url(SignUpImages/Shopping1.jpg);">  
+    <div>
             <div class="navbar navbar-default navbar-fixed-top" role="navigation">
                 <div class="container">
                     <div class="navbar-header">
@@ -60,21 +59,33 @@
                         </ul>
                     </div>
                 </div>
-            </div>  
-         </div>
-    </form>
+            </div>
 <div class="Container">
 		<img  class="B" src="SignUpImages/LoginLogo2.png" >
-		<h1 class="LoginHeader">Login Here</h1>
+		<h1 class="LoginHeader">Sign Up Here</h1>
 			<form>
 				<label style="font-size:20px;"><b>Username:</label>
 				<input type="text" placeholder="Enter User Name">
 				<label style="font-size:20px;"><b>Password:</label>
 				<input type="password" placeholder="Enter Password">
+                <label style="font-size:20px;"><b>Confirm Password:</label>
+				<input type="password" placeholder="Confirm Password Here">
+                <label style="font-size:20px;"><b>Your Full Name</label>
+				<input type="text" placeholder="Enter Your Name Here">
+                <label style="font-size:20px;"><b>Email Address</label>
+				<input type="text" placeholder="Enter Your Email ID">
 				<input type="submit" value="Submit"></br>
-				<a href="#">Forgot Password?</a></br>
-				<a href="#">Don't Have Account?</a>				
-			</form>		
+				<!--a href="#">Forgot Password?</!--a></br>
+				<a href="#">Don't Have Account?</a-->	
+			</form>	
+    <!-- Footer Section Start -->
+        <footer>
+            <div class="footer-pos">
+                <p class="pull-right"><a href="#"><b>Back to Top</b></a></p>
+                <p>&copy; 3-Tech_Ganesha &middot <a href="Default.aspx">LinkedIn</a>&middot; <a href="#">Twitter</a>&middot; <a href="#">GitHub</a>&middot; <a href="#">Instagram</a>&middot;</p>
+            </div>
+        </footer>
+        <!-- Footer Section End -->
 </div>
 </body>
 </html>
