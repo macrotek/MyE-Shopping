@@ -53,4 +53,3 @@ G:\NETPrograms\MyE-Shopping\MyE-Shopping\obj\Debug\MyE-Shopping.csproj.CoreCompi
 G:\NETPrograms\MyE-Shopping\MyE-Shopping\obj\Debug\MyE-Shopping.csproj.CopyComplete
 G:\NETPrograms\MyE-Shopping\MyE-Shopping\obj\Debug\MyE-Shopping.dll
 G:\NETPrograms\MyE-Shopping\MyE-Shopping\obj\Debug\MyE-Shopping.pdb
-G:\NETPrograms\MyE-Shopping\MyE-Shopping\obj\Debug\MyE-Shopping.csprojAssemblyReference.cache
