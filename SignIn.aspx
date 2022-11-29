@@ -17,6 +17,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <div>
             <div class="navbar navbar-default navbar-fixed-top" role="navigation">
                 <div class="container">
                     <div class="navbar-header">
@@ -63,6 +64,31 @@
                 </div>
             </div>        
         </div>
+        </div>
+        <!-- SignIn Form Start -->
+        <div class="Container">
+		<img  class="B" src="SignUpImages/LoginLogo2.png"/>
+		<h1 class="LoginHeader">Login Form</h1>
+			<form>
+				<label  class="col-md-2" style="font-size:20px;"><b>Username:</b></label>
+                <br>
+                <div class="col-md-3">
+				<asp:TextBox type="text" placeholder="Enter User Name" id="txtUsername" runat="server"></asp:TextBox>
+                </div>
+                <br>
+				<label class="col-md-2" style="font-size:20px;"><b>Password:</b></label>
+                <br>
+                <div class="col-md-3">
+				<asp:TextBox type="password" placeholder="Enter Password" id="txtPassword" runat="server"></asp:TextBox>
+                </div>
+                <br>
+                <asp:Button CssClass="btn" BackColor="#0099ff" Width="100px" ForeColor="Black" Height="40px" ID="Button1" runat="server" Text="Login&raquo;" CausesValidation="False" ></asp:Button>
+				<!--button type="button" value="Submit">Submit</!--button></br>
+				<!--a href="#">Forgot Password?</!--a></br>
+				<a href="#">Don't Have Account?</a-->
+			</form>	
+        </div>
+        <!-- SignIn form End -->
         <!-- Footer Section Start -->
         <footer>
             <div class="container">
